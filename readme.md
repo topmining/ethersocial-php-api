@@ -8,3 +8,6 @@ https://www.ddengle.com/board_blockchain/10412507
 
 ### 2. 서버 환경 설정  
 https://www.ddengle.com/board_blockchain/10505319
+
+### 3. 계정 잔액 확인하기  
+https://www.ddengle.com/board_blockchain/10519745
