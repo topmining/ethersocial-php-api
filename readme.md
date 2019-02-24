@@ -24,6 +24,6 @@ https://www.ddengle.com/develop/10813311
 https://steemit.com/topmining/@topmining/php-api-5  
 https://www.ddengle.com/develop/10860881
 
-###6. 트랜잭션 기록하기
+### 6. 트랜잭션 기록하기
 https://steemit.com/topmining/@topmining/php-api-6  
 https://www.ddengle.com/develop/10906704
