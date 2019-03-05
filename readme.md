@@ -31,3 +31,7 @@ https://www.ddengle.com/develop/10906704
 ### 7. 트랜잭션 내역 확인하기
 https://steemit.com/topmining/@topmining/php-api-6  
 https://www.ddengle.com/develop/10917109
+
+### 8. 트랜잭션 전송하기
+https://steemit.com/topmining/@topmining/php-api-8  
+https://www.ddengle.com/develop/10932596
